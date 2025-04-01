@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "sqLr00tw0Rk_",
+    "password": " ${{ secrets.SQL_PASSWORD }} ",
     "database": "webpagedb",
     "host": "localhost",
     "dialect": "mysql"
